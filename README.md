@@ -20,5 +20,3 @@ Each level adds one more color to the sequence to test your memory.
 3. Click the buttons in the same order.
 4. Every correct sequence increases your level.
 5. Game ends if you click the wrong button.
-
-6. 
