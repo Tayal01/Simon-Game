@@ -1,0 +1,66 @@
+*{
+    font-family:'Comic Neue',cursive;
+}
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+#high {
+    text-align: end;
+    font-weight: 600;
+    padding: 0 30px 60px 0px;
+    margin-bottom: 30px;
+}
+
+.btn-Container {
+    display: flex;
+    justify-content: center;
+}
+.btn1{
+    height: 200px;
+    width: 200px;
+    background-color:#dc143c;
+    border: 5px solid black;
+    border-radius: 25px;
+    margin: 1.2rem;
+}
+
+.btn2 {
+     height: 200px;
+    width: 200px;
+    background-color:#808080;
+    border: 5px solid black;
+    border-radius: 25px;
+    margin: 1.2rem;
+}
+
+.btn3 {
+     height: 200px;
+    width: 200px;
+    background-color:#deb887;
+    border: 5px solid black;
+    border-radius: 25px;
+    margin: 1.2rem;
+}
+
+.btn4 {
+    height: 200px;
+    width: 200px;
+    background-color:#FF69B4;
+    border: 5px solid black;
+    border-radius: 25px;
+    margin: 1.2rem;
+}
+
+.gameflash {
+    background-color: white;
+}
+
+.userflash {
+    background-color: green;
+}
+
